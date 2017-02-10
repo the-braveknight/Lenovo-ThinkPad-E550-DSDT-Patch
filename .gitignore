@@ -1,0 +1,8 @@
+.DS_Store
+E550.xcodeproj/xcuserdata/
+E550.xcodeproj/project.xcworkspace/xcuserdata
+build/*
+downloads/*
+AppleHDA_CX20751.kext
+AppleHDAHCD_CX20751.kext
+AppleHDA_CX20751_Resources

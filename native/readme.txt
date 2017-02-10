@@ -1,0 +1,1 @@
+Native ACPI files for Lenovo ThinkPad E550 (Haswell).
