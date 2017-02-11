@@ -6,7 +6,8 @@ The current repository actually uses only on-the-fly patches via config.plist an
 
 Please refer to this guide thread on tonymacx86.com for a step-by-step process, feedback, and questions:
 
-No guide yet. Will try to write one soon.
+https://www.tonymacx86.com/threads/guide-lenovo-thinkpad-e550-haswell-using-clover-uefi-10-11.214675
+
 
 2016-02-11
 
