@@ -266,7 +266,7 @@
 				<key>Find</key>
 				<data>gflSqgAAdSk=</data>
 				<key>MatchOS</key>
-				<string>10.12.x</string>
+				<string>10.12.x,10.13.x</string>
 				<key>Name</key>
 				<string>com.apple.driver.AirPort.Brcm4360</string>
 				<key>Replace</key>
@@ -300,7 +300,7 @@
 				<key>Find</key>
 				<data>AQAAdSU=</data>
 				<key>MatchOS</key>
-				<string>10.12.x</string>
+				<string>10.12.x,10.13.x</string>
 				<key>Name</key>
 				<string>com.apple.iokit.IOGraphicsFamily</string>
 				<key>Replace</key>
